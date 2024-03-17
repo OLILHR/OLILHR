@@ -9,5 +9,5 @@
     <img src="/assets/bootstrap.svg" width="31.5x" alt="Bootstrap" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/assets/docker.svg" width="37px" alt="Docker" title="Docker">
     <img src="/assets/git.svg" width="25px" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/illustrator.svg" width="26.5px" alt="AdobeIllustrator" title="AdobeIllustrator"> 
+    <img src="/assets/illustrator.svg" width="26.5px" alt="Illustrator" title="Illustrator"> 
 </p>
