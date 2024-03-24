@@ -1,7 +1,8 @@
 <p align="center">
     <img src="/assets/python.svg" width="25px" alt="Python" title="Python">
     <img src="/assets/fastapi.svg" width="25px" alt="FastAPI" title="FastAPI"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/javascript.svg" width="25px" alt="JavaScript" title="JavaScript" style="margin-right: 35px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="/assets/javascript.svg" width="25px" alt="JavaScript" title="JavaScript">
+    <img src="/assets/svelte.svg" width="25px" alt="Svelte" title="Svelte"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/assets/htmx.svg" width="25px" alt="HTMX" title="HTMX">
     <img src="/assets/html5.svg" width="25px" alt="HTML" title="HTML">
     <img src="/assets/css3.svg" width="25px" alt="CSS" title="CSS">
